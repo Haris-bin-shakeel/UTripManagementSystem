@@ -104,9 +104,9 @@ java -cp bin main.Main
 | Role | Email | Password |
 |------|-------|----------|
 | Admin | admin@utms.edu | admin123 |
-| Teacher | teacher@utms.edu | teacher123 |
-| Student | student1@utms.edu | student123 |
-| Driver | driver@utms.edu | driver123 |
+| Teacher | smith@utms.edu | teacher123 |
+| Student | haris@utms.edu | student123 |
+| Driver | john@utms.edu | driver123 |
 
 ---
 
